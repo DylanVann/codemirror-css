@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@ampproject/rollup-plugin-closure-compiler": "^0.13.0",
-    "codemirror": "5.23.0",
+    "codemirror": "5.58.2",
     "postcss": "^7.0.24",
     "postcss-unprefix": "^2.1.4",
     "prettier": "^1.19.1",
@@ -28,6 +28,6 @@
     "rollup-plugin-postcss": "^2.0.3"
   },
   "peerDependencies": {
-    "codemirror": "5.23.0"
+    "codemirror": "5.58.2"
   }
 }
